@@ -1,0 +1,36 @@
+[{
+        "hotel": {
+            "name": "Wangerooge Hotel",
+            "location": "Ger",
+            "description": "Wangerooge Hotel at Wangerooge, Germany"
+        }
+    },
+    {
+        "hotel": {
+            "name": "Austin Hotel",
+            "location": "Aus",
+            "description": "Austin Hotel at Austin, United States"
+        }
+    },
+    {
+        "hotel": {
+            "name": "Mexico Hotel",
+            "location": "Mexico",
+            "description": "Mexico Hotel at Mexico City, Mexico"
+        }
+    },
+    {
+        "hotel": {
+            "name": "Thailand Hotel",
+            "location": "Thai",
+            "description": "ThaiLand Hotel at Thailand"
+        }
+    },
+    {
+        "hotel": {
+            "name": "Singapore Hotel",
+            "location": "Sing",
+            "description": "Singapore Hotel at Singapore"
+        }
+    }
+]
